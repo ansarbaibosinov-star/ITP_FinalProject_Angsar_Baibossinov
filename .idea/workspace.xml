@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37605dd6-df9e-4c97-996d-e203a9ed77eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FinalProjectPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/bg9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/game_over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/i.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/image.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background/you_win.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy/break_rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy/rocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/leftaplaneYellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/leftaplaneYellow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/leftaplaneYellow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/leftaplaneYellow3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/planeBlue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/planeYellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/planeYellow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/planeYellow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane/planeYellow3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/bg_music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/bite.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/boom.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/heal.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/musicbg.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/asset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/heal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/heal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/heal3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats/heart.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3CDc2hMA5N0ZSDWxifc8BaX4e9i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.background.executor": "Run",
+    "Python.fix.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.plane.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ansar/PycharmProjects/FinalProjectPython/stats",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ansar\PycharmProjects\FinalProjectPython\stats" />
+      <recent name="C:\Users\Ansar\PycharmProjects\FinalProjectPython\plane" />
+      <recent name="C:\Users\Ansar\PycharmProjects\FinalProjectPython\background" />
+      <recent name="C:\Users\Ansar\PycharmProjects\FinalProjectPython\sound" />
+      <recent name="C:\Users\Ansar\PycharmProjects\FinalProjectPython\enemy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="fix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalProjectPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalProjectPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.fix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37605dd6-df9e-4c97-996d-e203a9ed77eb" name="Changes" comment="" />
+      <created>1775923375167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775923375167</updated>
+      <workItem from="1775923536449" duration="11000" />
+      <workItem from="1775923565596" duration="292000" />
+      <workItem from="1775925165436" duration="3215000" />
+      <workItem from="1776064061507" duration="30000" />
+      <workItem from="1776064772129" duration="17000" />
+      <workItem from="1776523199723" duration="13744000" />
+      <workItem from="1776669785756" duration="596000" />
+      <workItem from="1776747942886" duration="3662000" />
+      <workItem from="1777206767219" duration="15000" />
+      <workItem from="1777358142602" duration="206000" />
+      <workItem from="1777958164288" duration="2663000" />
+      <workItem from="1778483851776" duration="657000" />
+      <workItem from="1778556009284" duration="56000" />
+      <workItem from="1778944511700" duration="11240000" />
+      <workItem from="1779020511422" duration="20363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinalProjectPython$plane.coverage" NAME="plane Coverage Results" MODIFIED="1776606230424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalProjectPython$background.coverage" NAME="background Coverage Results" MODIFIED="1776614457939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalProjectPython$fix.coverage" NAME="fix Coverage Results" MODIFIED="1779041732398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalProjectPython$main.coverage" NAME="main Coverage Results" MODIFIED="1779043876507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
