@@ -172,4 +172,4 @@ while True:
 # #     pygame.display.update() #для экрана
 # #     clock.tick(60)
 # #
-# #
+
