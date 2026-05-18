@@ -7,7 +7,7 @@ from save import save_score
 
 
 def event(enemies,scores,group_pearls,window):
-    for event in pygame.event.get():# чтобы закрылся
+    for event in pygame.event.get():
        if event.type == pygame.USEREVENT:
            pearl = Pearl()
            make_pearl(group_pearls,pearl)

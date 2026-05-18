@@ -7,7 +7,7 @@ class Pearl(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
         self.pearls = ['stats/heal1.png','stats/heal2.png','stats/heal3.png']
-        self.image = pygame.transform.scale(pygame.image.load('stats/heart.png').convert(),(50,50))
+        self.image = pygame.transform.scale(pygame.image.load('stats/heart.png').convert_alpha(),(50,50))
 
         self.rect = self.image.get_rect(center=(bg.WIDTH,randint(118,620)))
 

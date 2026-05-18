@@ -74,7 +74,7 @@ while True:
 
         if hero.health < 1:
             game_state = "game_over"
-        elif scores.amount_photo > 9:  # Если сбили больше 9 ракет
+        elif scores.amount_photo > 20:  # Если сбили больше 9 ракет
             game_state = "you_win"
 
     elif game_state == "game_over":
@@ -103,9 +103,35 @@ while True:
             if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
                 if next_level_rect.collidepoint(event.pos):  # Клик по NEXT LEVEL
                     reset_game()
-                    game_state = "game"  # Начинаем заново (или следующий уровень)
+                    game_state = "game"  # Начинаем заново
     pygame.display.update()
     clock.tick(60)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

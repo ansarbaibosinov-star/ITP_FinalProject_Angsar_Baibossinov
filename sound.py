@@ -1,7 +1,7 @@
 import pygame
 
 def bg_music():
-    pygame.mixer.music.load('sound/musicbg.mp3')
+    pygame.mixer.music.load('sound/bgmusicplane.mp3')
     pygame.mixer.music.play(-1)
 
 def boom():
